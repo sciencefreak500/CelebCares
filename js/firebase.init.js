@@ -4,10 +4,10 @@ angular.module('firebaseConfig', ['firebase'])
 
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyB55EvAqHfSlQeUlQO46PA0CNjhmVH_gow",
-    authDomain: "celebcares.firebaseapp.com",
-    databaseURL: "https://celebcares.firebaseio.com",
-    storageBucket: "celebcares.appspot.com",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
   };
   firebase.initializeApp(config);
 
